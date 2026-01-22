@@ -1,6 +1,6 @@
 # Operational-GUI-components
 Examples of text with codes
-Theme: Mood Based Recommendation App
+# Theme: Mood Based Recommendation App
 # Theme: Emotional wellness / entertainment
 # Purpose: Suggest activities, music and quotes based on mood
 1. It allows individuals to navigate through their thoughts and ideas
